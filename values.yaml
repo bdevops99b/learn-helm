@@ -85,4 +85,4 @@ podName: httpd
 image_name: httpd
 open_port: false
 ports:
-  80
+  - 80
